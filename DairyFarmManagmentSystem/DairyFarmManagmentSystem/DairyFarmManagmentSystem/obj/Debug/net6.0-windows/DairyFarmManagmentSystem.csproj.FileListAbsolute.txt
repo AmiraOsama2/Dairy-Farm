@@ -1,0 +1,78 @@
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.exe
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.deps.json
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.runtimeconfig.json
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.pdb
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Login.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Properties.Resources.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Splash.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.csproj.GenerateResource.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.AssemblyInfo.cs
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\refint\DairyFarmManagmentSystem.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.pdb
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.genruntimeconfig.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\ref\DairyFarmManagmentSystem.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Cows.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.MilkProduction.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.CowHealth.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.MilkSales.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Breeding.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Finances.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Dashboard.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.csproj.CopyComplete
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Employees.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Clients.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\New folder\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Doctors.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.exe
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.deps.json
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.runtimeconfig.json
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\DairyFarmManagmentSystem.pdb
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Breeding.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Clients.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.CowHealth.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Cows.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Dashboard.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Doctors.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Employees.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Finances.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Login.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.MilkProduction.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.MilkSales.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Properties.Resources.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.Splash.resources
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.csproj.GenerateResource.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.AssemblyInfo.cs
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.csproj.CopyComplete
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\refint\DairyFarmManagmentSystem.dll
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.pdb
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\DairyFarmManagmentSystem.genruntimeconfig.cache
+C:\Users\NV\Desktop\EJUST\level 3\term 1\database\DairyFarmManagmentSystem\DairyFarmManagmentSystem\DairyFarmManagmentSystem\obj\Debug\net6.0-windows\ref\DairyFarmManagmentSystem.dll
